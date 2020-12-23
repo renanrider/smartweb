@@ -25,12 +25,18 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='bootstrap-css'  href='/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2' type='text/css' media='all' />
 <link rel='stylesheet' id='hestia-font-sizes-css'  href='/wp-content/themes/hestia/assets/css/font-sizes.min.css?ver=3.0.8' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
 <link rel='stylesheet' id='hestia_style-css'  href='/wp-content/themes/hestia/style.min.css?ver=3.0.8' type='text/css' media='all' />
 <style id='hestia_style-inline-css' type='text/css'>
 
+		.sbi_photo {
+		  border-radius: 6px;
+		  overflow: hidden;
+		  box-shadow: 0 10px 15px -8px rgba(0, 0, 0, 0.24), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+		}
 		.elementor-page .hestia-about > .container {
 		  width: 100%;
 		}
@@ -636,6 +642,10 @@ var wp = {"is_user_logged_in":"","admin_email":"renansmit90@gmail.com","blogname
 				</div>
 		</div>
 		
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://localhost:81/wordpress/wp-admin/admin-ajax.php";
+</script>
 
 		<button class="hestia-scroll-to-top">
 			<svg  xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512" width="12.5px" height="20px"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"></path></svg>
@@ -656,7 +666,7 @@ var requestpost = {"ajaxurl":"http:\/\/localhost:81\/wordpress\/wp-admin\/admin-
 <script type='text/javascript' src='/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.8' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/localhost:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"515ed3de6c","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/localhost:81\/wordpress\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/localhost:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"ba13b0be69","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/localhost:81\/wordpress\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type='text/javascript' src='/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.8' id='elementor-pro-frontend-js'></script>
 <script type='text/javascript' src='/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
