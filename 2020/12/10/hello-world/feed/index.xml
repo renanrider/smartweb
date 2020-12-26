@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Nosso primeiro post!	</title>
 	<atom:link href="http://localhost/wordpress/2020/12/10/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/12/10/hello-world/</link>
+	<link>/2020/12/10/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 	<description></description>
 	<lastBuildDate>Sat, 26 Dec 2020 14:26:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
