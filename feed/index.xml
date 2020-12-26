@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 26 Dec 2020 16:06:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Dec 2020 16:31:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,8 +39,169 @@
 		<category><![CDATA[Site]]></category>
 		<guid isPermaLink="false">/?p=782</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Gestor Certo Problema Não tinha site, para atrair clientes somente no famoso boca a boca. Solução Foi feito um estudo de qual estratégia seria melhor para alcançar mais clientes. Foi criado um site otimizado para SEO regional, ou seja a ideia principal era atrair clientes que buscavam por um escritório [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="782" class="elementor elementor-782" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-910b849 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="910b849" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9ae4185" data-id="9ae4185" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ba904ef elementor-widget elementor-widget-heading" data-id="ba904ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Gestor Certo</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2a4401f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a4401f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9a9bab5" data-id="9a9bab5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6a1cae0 elementor-widget elementor-widget-heading" data-id="6a1cae0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-350ea67 elementor-widget elementor-widget-text-editor" data-id="350ea67" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Não tinha site, para atrair clientes somente no famoso boca a boca.</p><div></div></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8fc60ce elementor-widget elementor-widget-heading" data-id="8fc60ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b962839 elementor-widget elementor-widget-text-editor" data-id="b962839" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Foi feito um estudo de qual estratégia seria melhor para alcançar mais clientes. Foi criado um site otimizado para SEO regional, ou seja a ideia principal era atrair clientes que buscavam por um escritório de contabilidade na região.</p><p>Foi feito o site já com uma configuração inicial de SEO em seguida o monitoramento e ajustes  ao longo dos meses.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8d217c0 elementor-widget elementor-widget-heading" data-id="8d217c0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Resultado</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0b056b7 elementor-widget elementor-widget-text-editor" data-id="0b056b7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Depois de tudo implementado, conseguimos alcançar a primeira página do Google para diversas palavras chaves relacionadas a Contabilidade, atraindo muitos clientes para o escritório.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cc915ee" data-id="cc915ee" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d906e49 elementor-widget elementor-widget-image" data-id="d906e49" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="500" src="/wp-content/uploads/2020/12/gestor.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2020/12/gestor.jpg 500w, /wp-content/uploads/2020/12/gestor-300x300.jpg 300w, /wp-content/uploads/2020/12/gestor-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4a50a00 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4a50a00" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a65c80" data-id="8a65c80" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-363b242 elementor-widget elementor-widget-template" data-id="363b242" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="625" class="elementor elementor-625" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fcbc96b elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="fcbc96b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1333f9" data-id="f1333f9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9369628 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9369628" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4f4a680" data-id="4f4a680" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6f31c05 elementor-widget elementor-widget-heading" data-id="6f31c05" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Conte-nos um pouco dos seus objetivos.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-524e8f2 elementor-widget elementor-widget-text-editor" data-id="524e8f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Como podemos te ajudar a crescer? Diga usando o formulário ao lado.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d4406cc" data-id="d4406cc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-098333b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="098333b" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="625"/>
+			<input type="hidden" name="form_id" value="098333b"/>
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+					<label for="form-field-name" class="elementor-field-label">Nome</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nome">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required">
+					<label for="form-field-message" class="elementor-field-label">Mensagem</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Mensagem" required="required" aria-required="true"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Enviar</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2020/12/26/gestor-certo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
