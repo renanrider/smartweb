@@ -1,3 +1,4 @@
+// source --> http://localhost:81/wordpress/wp-content/plugins/wp-serverless-forms/assets/js/main.js?ver=5.5.3 
 function onBootstrap() {
   // Check if endpoint is set
   if (wp.wp_sls_forms_endpoint.length === 0) {
