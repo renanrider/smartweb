@@ -220,73 +220,7 @@
 					<div class="elementor-template">
 					<div data-elementor-type="section" data-elementor-id="625" class="elementor elementor-625" data-elementor-settings="[]">
 		<div class="elementor-section-wrap">
-					<section class="elementor-section elementor-top-section elementor-element elementor-element-fcbc96b elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="fcbc96b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1333f9" data-id="f1333f9" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9369628 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9369628" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4f4a680" data-id="4f4a680" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6f31c05 elementor-widget elementor-widget-heading" data-id="6f31c05" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Conte-nos um pouco dos seus objetivos.</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-524e8f2 elementor-widget elementor-widget-text-editor" data-id="524e8f2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Como podemos te ajudar a crescer? Diga usando o formulário ao lado.</p></div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d4406cc" data-id="d4406cc" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-098333b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="098333b" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
-				<div class="elementor-widget-container">
-					<form class="elementor-form" method="post" name="New Form">
-			<input type="hidden" name="post_id" value="625"/>
-			<input type="hidden" name="form_id" value="098333b"/>
-
-			
-			<div class="elementor-form-fields-wrapper elementor-labels-above">
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
-					<label for="form-field-name" class="elementor-field-label">Nome</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nome">				</div>
-								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
-					<label for="form-field-email" class="elementor-field-label">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
-								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required">
-					<label for="form-field-message" class="elementor-field-label">Mensagem</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Mensagem" required="required" aria-required="true"></textarea>				</div>
-								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-					<button type="submit" class="elementor-button elementor-size-sm">
-						<span >
-															<span class=" elementor-button-icon">
-																										</span>
-																						<span class="elementor-button-text">Enviar</span>
-													</span>
-					</button>
-				</div>
-			</div>
-		</form>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-407d179 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="407d179" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-407d179 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="407d179" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ac78f6" data-id="0ac78f6" data-element_type="column">
@@ -421,73 +355,7 @@
 					<div class="elementor-template">
 					<div data-elementor-type="section" data-elementor-id="625" class="elementor elementor-625" data-elementor-settings="[]">
 		<div class="elementor-section-wrap">
-					<section class="elementor-section elementor-top-section elementor-element elementor-element-fcbc96b elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="fcbc96b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1333f9" data-id="f1333f9" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9369628 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9369628" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4f4a680" data-id="4f4a680" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6f31c05 elementor-widget elementor-widget-heading" data-id="6f31c05" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Conte-nos um pouco dos seus objetivos.</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-524e8f2 elementor-widget elementor-widget-text-editor" data-id="524e8f2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Como podemos te ajudar a crescer? Diga usando o formulário ao lado.</p></div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d4406cc" data-id="d4406cc" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-098333b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="098333b" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
-				<div class="elementor-widget-container">
-					<form class="elementor-form" method="post" name="New Form">
-			<input type="hidden" name="post_id" value="625"/>
-			<input type="hidden" name="form_id" value="098333b"/>
-
-			
-			<div class="elementor-form-fields-wrapper elementor-labels-above">
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
-					<label for="form-field-name" class="elementor-field-label">Nome</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nome">				</div>
-								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
-					<label for="form-field-email" class="elementor-field-label">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
-								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required">
-					<label for="form-field-message" class="elementor-field-label">Mensagem</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Mensagem" required="required" aria-required="true"></textarea>				</div>
-								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-					<button type="submit" class="elementor-button elementor-size-sm">
-						<span >
-															<span class=" elementor-button-icon">
-																										</span>
-																						<span class="elementor-button-text">Enviar</span>
-													</span>
-					</button>
-				</div>
-			</div>
-		</form>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-407d179 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="407d179" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-407d179 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="407d179" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ac78f6" data-id="0ac78f6" data-element_type="column">
